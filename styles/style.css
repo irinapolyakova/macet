@@ -1,0 +1,141 @@
+
+
+main{
+    display: flex;
+    background-color: #EFF6FF;
+    width: 1700px;
+    height: 1200px;
+ }
+
+ header{
+    background-color: white;
+    width: 1500px;
+    height: 1000px;
+    display: flex;
+    margin: 80px 100px 80px;
+    
+ }
+
+ .section{
+    padding:70px 60px 70px;
+ }
+
+ h1{
+    font-size: 34px;
+    color: #2A4A5C;
+ }
+
+ .p1{
+    font-size:24px;
+    color:#7B8A92;
+ }
+ .register{
+    padding-top: 40px;
+    
+}
+
+.facebook{
+    width: 20px;
+    height: 20px;
+}     
+
+ .button1,
+ .button2 { 
+        color: white; 
+        text-decoration: none;   
+}
+
+ .button2 {
+    margin-left: 40px; 
+} 
+
+ .color1,
+ .color2 {
+        background-color: #255A9B;
+        padding:15px;
+        padding-left: 60px;
+        padding-right: 50px;
+              
+}
+
+ .color2 {
+        background-color: #0076B6;  
+ }
+
+ .p2 {
+    padding-left: 290px;
+    padding-top: 50px;
+    color:#2A4A5C;
+    
+ }
+   
+  .p2 span::before {
+
+    width: 150px;
+    content: '';
+    position: absolute;
+    border-bottom: 2px solid #96A5B1;
+   
+   
+ }
+ 
+  .p2 span::after {
+    display:block;
+    width: 150px;
+    content: '';
+    position: absolute;
+    border-bottom: 2px solid #96A5B1;
+ }
+
+ .email {
+
+    border-color: #EEEEEE;
+    border-left-color: #3698FB;
+    border-width: 2px;
+    padding-right: 110px;
+    padding-top: 30px;
+ }
+ .phone {
+    border-color: #EEEEEE;
+    border-width: 2px;
+    padding-right: 110px;
+    padding-top: 30px;
+ }
+ h2{
+    padding-top: 50px;
+    font-size: 26px;
+    color: #2A4A5C;
+ }
+ 
+ .p3{
+    font-size:20px;
+    color:#7B8A92;
+ }
+
+ .radio{
+    font-size: 20px;
+ }
+ .checkbox{
+    padding-top: 150px;
+    color: #96A5B1;
+ }
+.blue{
+    color: #3698FB;
+    text-decoration: underline;
+}
+.create{
+    padding-top: 50px;
+
+}
+.create1{
+    background-color: #3698FB;
+        padding:15px;
+        padding-left: 80px;
+        padding-right: 80px; 
+        color: white; 
+        text-decoration: none;
+        font-size: 18px;
+        border-radius: 5px;
+        
+}
+  
